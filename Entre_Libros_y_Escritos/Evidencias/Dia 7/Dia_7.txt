@@ -1,0 +1,17 @@
+DÍA 7 – ORGANIZACIÓN DEL PROYECTO Y GITHUB
+
+Objetivo:
+Comenzar la gestión profesional del proyecto.
+
+Actividades realizadas:
+
+* Creación de la estructura de carpetas del proyecto.
+* Organización de documentación.
+* Organización de bocetos.
+* Organización de evidencias.
+* Creación del repositorio GitHub.
+* Preparación del README inicial.
+* Preparación del primer commit.
+
+Resultado:
+Proyecto organizado para su seguimiento, documentación y futura publicación en GitHub.

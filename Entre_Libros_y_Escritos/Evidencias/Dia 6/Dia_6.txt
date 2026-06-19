@@ -1,0 +1,16 @@
+DÍA 6 – CONTENIDO DEL SERVIDOR
+
+Objetivo:
+Preparar el servidor para recibir participantes.
+
+Actividades realizadas:
+
+* Redacción de reglas del club.
+* Creación del mensaje de bienvenida.
+* Explicación del funcionamiento de las votaciones.
+* Definición de los ejercicios de escritura.
+* Redacción de la historia y origen del proyecto.
+* Organización del calendario inicial.
+
+Resultado:
+Servidor preparado para recibir participantes y comunicar el funcionamiento del club.

@@ -1,0 +1,29 @@
+USUARIO
+
+* id
+* nombre_completo
+* discord
+
+LIBRO
+
+* id
+* titulo
+* autor
+* genero
+* disponibilidad
+
+VOTO
+
+* id
+* genero
+* autor
+* libro
+
+HISTORIAL
+
+* id
+* mes
+* genero
+* autor
+* libro
+* participantes

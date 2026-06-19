@@ -1,0 +1,15 @@
+DÍA 3 – BOCETOS Y BASE DE DATOS
+
+Objetivo:
+Diseñar la estructura inicial del sistema.
+
+Actividades realizadas:
+
+* Creación de bocetos a mano de las pantallas.
+* Diseño preliminar de navegación.
+* Diseño inicial de la base de datos.
+* Definición de las entidades Usuario, Libro, Voto e Historial.
+* Revisión del flujo general del participante.
+
+Resultado:
+Bocetos iniciales y primera versión de la base de datos completados.

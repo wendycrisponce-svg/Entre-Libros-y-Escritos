@@ -1,0 +1,16 @@
+DÍA 4 – PLANIFICACIÓN DE DISCORD
+
+Objetivo:
+Diseñar la estructura del servidor.
+
+Actividades realizadas:
+
+* Definición de categorías.
+* Definición de canales.
+* Definición de roles.
+* Planificación de espacios para votaciones.
+* Planificación de espacios para lectura y escritura.
+* Planificación de espacios administrativos.
+
+Resultado:
+Estructura conceptual del servidor Discord definida.

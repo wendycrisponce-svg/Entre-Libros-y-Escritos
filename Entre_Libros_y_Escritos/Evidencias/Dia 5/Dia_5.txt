@@ -1,0 +1,17 @@
+DÍA 5 – IMPLEMENTACIÓN DE DISCORD
+
+Objetivo:
+Construir el servidor Discord.
+
+Actividades realizadas:
+
+* Creación de roles Administrador, Moderador y Miembro.
+* Creación de categorías.
+* Creación de canales.
+* Configuración inicial de permisos.
+* Configuración de canales de votación.
+* Configuración de canales informativos.
+* Organización de la comunidad.
+
+Resultado:
+Servidor Discord funcional y organizado.

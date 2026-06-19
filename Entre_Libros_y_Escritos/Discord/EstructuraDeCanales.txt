@@ -1,0 +1,35 @@
+Estructura del Servidor Discord
+
+📌 INFORMACIÓN
+
+* reglas
+* anuncios
+* calendario
+
+📚 COMUNIDAD
+
+* presentaciones
+* charla-general
+* libro-del-mes
+* ensayo
+* mi-version
+
+🗳️ ELECCIONES
+
+* votacion-genero
+* votacion-autor
+* votacion-libro
+
+🎤 REUNIONES
+
+* sala de voz
+
+🔒 STAFF
+
+* administracion
+
+Roles:
+
+* Administrador
+* Moderador
+* Miembro

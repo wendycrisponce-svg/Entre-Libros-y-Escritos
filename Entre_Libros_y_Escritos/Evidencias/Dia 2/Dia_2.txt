@@ -1,0 +1,17 @@
+DÍA 2 – REQUISITOS DEL SISTEMA
+
+Objetivo:
+Definir qué debe hacer el sistema.
+
+Actividades realizadas:
+
+* Redacción de requisitos funcionales.
+* Redacción de requisitos no funcionales.
+* Definición del sistema de registro de participantes.
+* Definición del sistema de propuestas de libros.
+* Definición del sistema de votación de género, autor y libro.
+* Definición del historial de lecturas.
+* Definición del acceso a Discord.
+
+Resultado:
+Documento inicial de requisitos finalizado.
